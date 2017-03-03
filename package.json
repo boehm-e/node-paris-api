@@ -1,0 +1,25 @@
+{
+  "name": "node-paris-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boehm-e/node-paris-api.git"
+  },
+  "author": "erwan boehm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boehm-e/node-paris-api/issues"
+  },
+  "homepage": "https://github.com/boehm-e/node-paris-api#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
