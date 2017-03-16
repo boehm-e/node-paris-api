@@ -9,7 +9,7 @@ npm i node-paris-api
 let parisApi = require('node-paris-api');
 
 let paris = new parisApi({
-  token: "YOU_TOKEN"
+  token: "YOUR_TOKEN"
 });
 
 categories = paris.equipement.getCategories();
